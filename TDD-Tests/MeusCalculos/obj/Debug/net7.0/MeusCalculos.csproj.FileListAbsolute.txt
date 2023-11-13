@@ -1,0 +1,14 @@
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\bin\Debug\net7.0\MeusCalculos.exe
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\bin\Debug\net7.0\MeusCalculos.deps.json
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\bin\Debug\net7.0\MeusCalculos.runtimeconfig.json
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\bin\Debug\net7.0\MeusCalculos.dll
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\bin\Debug\net7.0\MeusCalculos.pdb
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\obj\Debug\net7.0\MeusCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\obj\Debug\net7.0\MeusCalculos.AssemblyInfoInputs.cache
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\obj\Debug\net7.0\MeusCalculos.AssemblyInfo.cs
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\obj\Debug\net7.0\MeusCalculos.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\obj\Debug\net7.0\MeusCalculos.dll
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\obj\Debug\net7.0\refint\MeusCalculos.dll
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\obj\Debug\net7.0\MeusCalculos.pdb
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\obj\Debug\net7.0\MeusCalculos.genruntimeconfig.cache
+C:\Users\Francisco Otacilio\OneDrive\Documents\Bootcamp-Wex\TDD-Tests\MeusCalculos\obj\Debug\net7.0\ref\MeusCalculos.dll
